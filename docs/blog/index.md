@@ -2,7 +2,7 @@
 title: Essays
 ---
 
-# Reading Recommendations
+# Autodidact's Delight
 
 !!! tip "Awesome Reads"
     - [Astral Codex Ten | Scott Alexander](https://www.astralcodexten.com/)
@@ -23,4 +23,4 @@ title: Essays
 
 ---
 
-# Recently Published
+## Recently Published

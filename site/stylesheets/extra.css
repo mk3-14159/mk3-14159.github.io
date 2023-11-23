@@ -35,7 +35,7 @@
     flex-basis: calc(50% - 12px); /* Adjust width minus margin */
     margin: 5px;
     text-align: center;
-    border: 0.5px solid #00b0ff; /* Optional: for border */
+    border: 0.5px solid #00b0ff; /* Optional: for border of button*/
     padding: 2px;
     box-sizing: border-box;
     border-radius: 5px;
