@@ -8,15 +8,19 @@ theme:
   features:
     - navigation.tabs
     # - navigation.tabs.sticky
+    - navigation.prune
     - navigation.sections
     - navigation.expand
-    # - toc.integrate
     - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - toc.integrate
   language: en
   palette:
     - scheme: youtube
