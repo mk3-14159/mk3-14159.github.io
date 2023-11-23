@@ -15,7 +15,7 @@ hide:
 ## My Knowledge Rolodex
 
 
-!!! quote "MK's Zettelkasten"
+!!! abstract "MK's Zettelkasten"
 
     <div class="flex-container">
         <div><a href="http://127.0.0.1:8000/Knowledge/data-structures-and-algorithms/" class="flex-button">Data Structures & Algorithms</a></div>
@@ -25,10 +25,8 @@ hide:
 
     </div>
 
-
->"What are we to do with what we have written down? Certainly, at first, we will produce mostly garbage. But we have been educated to expect something useful from our activities and soon lose confidence if nothing useful seems to result. We should, therefore, reflect on whether and how we arrange our notes so that they are available for later access."<br />
-> - Niklas Luhmann
-
+!!! quote "Niklas Luhmann"
+    "What are we to do with what we have written down? Certainly, at first, we will produce mostly garbage. But we have been educated to expect something useful from our activities and soon lose confidence if nothing useful seems to result. We should, therefore, reflect on whether and how we arrange our notes so that they are available for later access.
 
 
 ---
