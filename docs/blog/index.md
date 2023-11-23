@@ -1,5 +1,5 @@
 ---
-title: 🔖 Essays
+title: Essays
 ---
 
 # Reading Recommendations

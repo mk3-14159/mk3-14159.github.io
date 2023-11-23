@@ -1,5 +1,5 @@
 ---
-title: 🗂️ Rolodex
+title: Notes
 hide:
 #   - navigation
 #   - toc

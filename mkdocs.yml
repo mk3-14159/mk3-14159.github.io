@@ -48,13 +48,13 @@ plugins:
 
 extra:
   generator: false
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com
+  # social:
+  #   - icon: fontawesome/brands/github-alt
+  #     link: https://github.com
+  #   - icon: fontawesome/brands/x-twitter
+  #     link: https://twitter.com
+  #   - icon: fontawesome/brands/linkedin
+  #     link: https://www.linkedin.com
 
 markdown_extensions:
   - tables
