@@ -4,7 +4,7 @@ hide:
   - navigation
   - toc
 ---
-# Programmer & Writer
+# Hobbyist Programmer & Writer
 
 <section markdown="1" style="display: flex;">
 <div class="career" markdown="1"> 
