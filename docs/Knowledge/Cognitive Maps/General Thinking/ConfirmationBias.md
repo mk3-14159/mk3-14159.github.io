@@ -28,5 +28,5 @@ graph TB
 - The modern world operates under the principle of falsification: A method is termed scientific if it can be stated in such a way that a certain defined result would cause it to be proved false. 
 - Pseudo-knowledge and pseudo-science operate and propagate by being unfalsifiable – as with [astrology](https://en.wikipedia.org/wiki/Horoscope), [Chinese Bazi](https://en.wikipedia.org/wiki/Four_Pillars_of_Destiny) etc. we are unable to prove them either correct or incorrect because the conditions under which they would be shown false are never stated.
 
-!!! Example "Conformation Bias Example"
+!!! Example "Example of Conformation Bias"
     In a political debate, friends with preexisting biases selectively interpreted information to support their preferred candidates, illustrating confirmation bias by ignoring opposing perspectives.

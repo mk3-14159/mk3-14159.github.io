@@ -22,5 +22,5 @@ graph TD
 - Without cooperation, no group survives, and the cooperation of groups gives rise to even more complex versions of organization eg. [A society](https://en.wikipedia.org/wiki/Society). 
 - Cooperation and competition tend to coexist at multiple levels.
 
-!!! Example "Example of sysmbiosis"
+!!! Example "Example of Sysmbiosis"
     In a modern economy, businesses often engage in both cooperation and competition within a complex ecosystem.

@@ -24,5 +24,5 @@ flowchart LR
 - Optimising by what we want to avoid rather than what we want to get, we derive better solutions. 
 - Inversion works not just in mathematics but in nearly every area of life. 
 
-!!! Example "Inversion Example"
+!!! Example "Example of Inversion"
     “Just tell me where I’m going to die so I can never go there." - MK Chong

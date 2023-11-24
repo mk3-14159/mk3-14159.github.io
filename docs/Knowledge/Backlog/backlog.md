@@ -62,7 +62,7 @@ description: project workflow and tasks
             - [ ] Dunbar's Number
     
         ??? note "Human Nature"
-            - [ ] Trust
+            - [x] Trust
             - [ ] Bias from Incentives
             - [ ] Pavlovian Association
             - [ ] Envy & Jealousy

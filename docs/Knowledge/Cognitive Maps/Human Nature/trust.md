@@ -21,5 +21,5 @@ graph TD
 - We also choose to trust chefs, clerks, drivers, factory workers, executives, and many others [professions](https://en.wikipedia.org/wiki/Profession). 
 - A trusting system is one that tends to work most efficiently; the rewards of trust are extremely high.
 
-!!! example "Trust Example"
+!!! example "Example of Trust"
     In modern society trust underpins our dining experience, from our fundamental trust in food safety to trusting chefs and restaurant workers.
