@@ -47,7 +47,7 @@ description: project workflow and tasks
 
         ??? note "Biological"
             - [x] Incentives
-            - [ ] Symbiosis
+            - [x] Symbiosis
             - [ ] Adaptation
             - [ ] Natural Selection
             - [ ] Red Queen Effect

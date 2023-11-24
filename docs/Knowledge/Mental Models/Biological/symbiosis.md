@@ -23,4 +23,4 @@ graph TD
 - Cooperation and competition tend to coexist at multiple levels.
 
 !!! Example "Example of sysmbiosis"
-    In a modern economy, businesses often engage in both cooperation and competition within a complex ecosystem:
+    In a modern economy, businesses often engage in both cooperation and competition within a complex ecosystem.
