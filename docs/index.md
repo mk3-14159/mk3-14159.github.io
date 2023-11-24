@@ -51,5 +51,5 @@ An online repository for sharing trending ideas and technology.
 While I don't actively engage with social media, you can find me here:
 
 **Socials**
-<br />[Twitter](https://twitter.com) | [GitHub](https://github.com/mk3-14159) | [LinkedIn](https://www.linkedin.com/in/mk-chong-55027b199/)
+<br />[GitHub](https://github.com/mk3-14159) | [LinkedIn](https://www.linkedin.com/in/mk-chong-55027b199/)
 <!-- updates -->

@@ -19,7 +19,7 @@
 
   .md-content {
     --md-typeset-color: #060025;
-    --md-typeset-a-color:  #0a004b;
+    --md-typeset-a-color:  rgb(32, 13, 128);
   }
 
   .flex-container {

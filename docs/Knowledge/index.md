@@ -20,6 +20,13 @@ nav:
 
 <!-- <b><h2 align="center">MK Chong</h2></b> -->
 
+<div class="flex-container">
+     <div><a href="https://mkchong.com/Knowledge/Backlog/backlog/" class="flex-button">Backlog</a></div>
+     <div><a href="https://github.com/mk3-14159/mk3-14159.github.io" class="flex-button">Repository</a></div>
+     <div><a href="https://github.com/mk3-14159/mk3-14159.github.io/commits/main" class="flex-button">Commit History</a></div>
+     <div><a href="https://github.com/mk3-14159/mk3-14159.github.io/blob/main/LICENSE" class="flex-button">License</a></div>
+</div>
+
 !!! quote "Niklas Luhmann - Popularized the Zettlekasten Method"
     "What are we to do with what we have written down? Certainly, at first, we will produce mostly garbage. But we have been educated to expect something useful from our activities and soon lose confidence if nothing useful seems to result. We should, therefore, reflect on whether and how we arrange our notes so that they are available for later access.
 
@@ -55,10 +62,3 @@ nav:
         - Builds upon [First Principles Thinking](https://en.wikipedia.org/wiki/First_principle).
         - Can be applied in the [Present](https://en.wikipedia.org/wiki/Present).
         - Provides a [Net Positive](https://en.wikipedia.org/wiki/Positive_Development) to humanity. 
-
-<div class="flex-container">
-     <div><a href="https://mkchong.com/Knowledge/Backlog/backlog/" class="flex-button">Backlog</a></div>
-     <div><a href="https://github.com/mk3-14159/mk3-14159.github.io/commits/main" class="flex-button">Commit History</a></div>
-     <div><a href="https://github.com/mk3-14159/mk3-14159.github.io" class="flex-button">Repository</a></div>
-     <div><a href="https://github.com/mk3-14159/mk3-14159.github.io/blob/main/LICENSE" class="flex-button">License</a></div>
-</div>
