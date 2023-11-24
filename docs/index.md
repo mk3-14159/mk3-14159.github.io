@@ -4,7 +4,7 @@ hide:
   - navigation
   - toc
 ---
-# Autodidact & Writer
+# Programmer & Writer
 
 <section markdown="1" style="display: flex;">
 <div class="career" markdown="1"> 
