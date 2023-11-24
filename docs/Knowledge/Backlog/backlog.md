@@ -63,7 +63,7 @@ description: project workflow and tasks
     
         ??? note "Human Nature"
             - [x] Trust
-            - [ ] Bias from Incentives
+            - [x] Bias from Incentives
             - [ ] Pavlovian Association
             - [ ] Envy & Jealousy
             - [ ] Distortion from emotion
@@ -88,8 +88,8 @@ description: project workflow and tasks
             - [ ] The IKEA
   
         ??? note "Micro Economics"
-            - [ ] Opportunity Costs
-            - [ ] Creative Destruction
+            - [x] Opportunity Costs
+            - [x] Creative Destruction
             - [ ] Comparative Advantage
             - [ ] Specializations
             - [ ] The Middle Ground

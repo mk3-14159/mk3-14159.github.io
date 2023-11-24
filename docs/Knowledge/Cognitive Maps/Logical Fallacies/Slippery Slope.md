@@ -10,10 +10,6 @@ graph TD
     A[Initial Argument or Action] -->|Leads to| B[First Consequence]
     B -->|Leads to| C[Further Consequence]
     C -->|Leads to| D[Extreme Consequence]
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#f9f,stroke:#333,stroke-width:2px
-    style D fill:#f9f,stroke:#333,stroke-width:2px
     A -->|Is claimed to inevitably lead to| D
     subgraph Slippery Slope Fallacy
     A
