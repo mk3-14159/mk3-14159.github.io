@@ -120,8 +120,8 @@ description: project workflow and tasks
             - [ ] Order of Magnitude
 
         ??? note "Physical World"
-            - [ ] Laws of Thermodynamics
-            - [ ] Reciprocity
+            - [x] Laws of Thermodynamics
+            - [x] Reciprocity
             - [ ] Velocity
             - [ ] Relativity
             - [ ] Activation Energy
