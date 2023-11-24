@@ -104,8 +104,8 @@ description: project workflow and tasks
             - [ ] Scarcity
   
         ??? note "Numeracy"
-            - [ ] Permutations and Combinations
-            - [ ] Algebraic Equivalence
+            - [x] Permutations and Combinations
+            - [x] Algebraic Equivalence
             - [ ] Randomness
             - [ ] Stochastic Processes
             - [ ] Compounding 
