@@ -45,8 +45,8 @@ description: project workflow and tasks
             - [ ] The Texas Sharpshooter
             - [ ] Middle Ground
 
-        ??? note "Biological Reality"
-            - [ ] Incentives
+        ??? note "Biological"
+            - [x] Incentives
             - [ ] Symbiosis
             - [ ] Adaptation
             - [ ] Natural Selection
