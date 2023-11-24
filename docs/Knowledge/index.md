@@ -6,12 +6,17 @@ nav:
     - Algos: Knowledge/data-structures-and-algorithms.md
 
 ---
-<!-- <style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style> -->
+<style>
+.flex-container > div {
+    flex-basis: calc(50% - 12px); /* Adjust width minus margin */
+    margin: 5px;
+    text-align: center;
+    border: 0.5px solid #180256; /* Optional: for border of button*/
+    padding: 2px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+</style>
 
 <!-- <b><h2 align="center">MK Chong</h2></b> -->
 
@@ -52,8 +57,8 @@ nav:
         - Provides a [Net Positive](https://en.wikipedia.org/wiki/Positive_Development) to humanity. 
 
 <div class="flex-container">
-     <div><a href="" class="flex-button">Backlog</a></div>
+     <div><a href="https://mkchong.com/Knowledge/Backlog/backlog/" class="flex-button">Backlog</a></div>
      <div><a href="https://github.com/mk3-14159/mk3-14159.github.io/commits/main" class="flex-button">Commit History</a></div>
      <div><a href="https://github.com/mk3-14159/mk3-14159.github.io" class="flex-button">Repository</a></div>
-     <div><a href="link4.md" class="flex-button">License</a></div>
+     <div><a href="https://github.com/mk3-14159/mk3-14159.github.io/blob/main/LICENSE" class="flex-button">License</a></div>
 </div>
