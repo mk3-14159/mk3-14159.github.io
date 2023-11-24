@@ -8,7 +8,7 @@ description: project workflow and tasks
 
         ??? note "General Thinking"
             - [x] Inversion
-            - [ ] Confirmation Bias
+            - [x] Confirmation Bias
             - [ ] Circle of Competence 
             - [ ] Occam's Razor 
             - [ ] Hanlon's Razor
