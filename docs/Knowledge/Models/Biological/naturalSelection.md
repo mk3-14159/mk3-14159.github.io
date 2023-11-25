@@ -14,7 +14,7 @@ graph TD
     E --> F[Natural Selection Achieved]
 ```
 
-- Evolution by natural selection was once called “the greatest idea anyone ever had.” In the 19th century, Charles Darwin and Alfred Russel Wallace simultaneous realized that species evolve through random mutation and differential survival rates. 
+- Evolution by natural selection was once called “the greatest idea anyone ever had.” In the 19th century, [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) and [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) simultaneous realized that species evolve through random mutation and differential survival rates. 
 - If we call human intervention in animal-breeding an example of “artificial selection,” we can call Mother Nature deciding the success or failure of a particular mutation “natural selection.” 
 - Those best suited for survival tend to be preserved. But of course, conditions change.
 
