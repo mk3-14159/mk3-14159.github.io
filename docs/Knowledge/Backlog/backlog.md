@@ -131,8 +131,8 @@ description: project workflow and tasks
             - [ ] Alloys
 
         ??? note "Systems"
-            - [ ] Scale
-            - [ ] Law of Diminishing Returns
+            - [x] Scale
+            - [x] Law of Diminishing Returns
             - [ ] Pareto Principle
             - [ ] Feedback Loops
             - [ ] Chaos Dynamics
@@ -155,8 +155,8 @@ description: project workflow and tasks
             - [ ] Complex Adaptive Systems
   
         ??? note "Art of War"
-            - [ ] Seeing the Front
-            - [ ] Asymetric Warfare
+            - [x] Seeing the Front
+            - [x] Asymetric Warfare
             - [ ] Two-Front War
             - [ ] Conterinsurgency
             - [ ] Mutually Assured Destruction
