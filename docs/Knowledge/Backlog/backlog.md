@@ -48,9 +48,9 @@ description: project workflow and tasks
         ??? note "Biological"
             - [x] Incentives
             - [x] Symbiosis
-            - [ ] Adaptation
-            - [ ] Natural Selection
-            - [ ] Red Queen Effect
+            - [x] Adaptation
+            - [x] Natural Selection
+            - [x] Red Queen Effect
             - [ ] Replication
             - [ ] Hierarchy
             - [ ] Self-Preservation 
@@ -157,9 +157,9 @@ description: project workflow and tasks
         ??? note "Art of War"
             - [x] Seeing the Front
             - [x] Asymetric Warfare
-            - [ ] Two-Front War
-            - [ ] Conterinsurgency
-            - [ ] Mutually Assured Destruction
+            - [x] Two-Front War
+            - [x] Conterinsurgency
+            - [x] Mutually Assured Destruction
 
     !!! question "Technology"
         ??? note "Big O Notation"
