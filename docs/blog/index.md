@@ -15,6 +15,7 @@ title: Essays
     - [Chris Lattner's Resume Writing | Chris Lattener](https://nondot.org/sabre/Resume.html#writing)
     - [Hacker's Manifesto | The Mentor](http://phrack.org/issues/7/3.html)
     - [Industrial Society And It's Future | Ted Kaczynski](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
+    - [Less Wrong | Eliezer Yudkowsky](https://www.lesswrong.com/)
 
 !!! example "My Essays"
     - [Object Oriented Bash](#object-oriented-bash)
