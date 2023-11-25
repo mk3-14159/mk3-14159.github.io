@@ -51,9 +51,9 @@ description: project workflow and tasks
             - [x] Adaptation
             - [x] Natural Selection
             - [x] Red Queen Effect
-            - [ ] Replication
-            - [ ] Hierarchy
-            - [ ] Self-Preservation 
+            - [x] Replication
+            - [x] Hierarchy
+            - [x] Self-Preservation 
             - [ ] Reward-Seeking
             - [ ] Examptation
             - [ ] Extinction
