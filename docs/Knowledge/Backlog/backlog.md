@@ -54,12 +54,12 @@ description: project workflow and tasks
             - [x] Replication
             - [x] Hierarchy
             - [x] Self-Preservation 
-            - [ ] Reward-Seeking
-            - [ ] Examptation
-            - [ ] Extinction
-            - [ ] Ecosystems
-            - [ ] Niches
-            - [ ] Dunbar's Number
+            - [x] Reward-System
+            - [x] Exaptation
+            - [x] Extinction
+            - [x] Ecosystems
+            - [x] Niches
+            - [x] Dunbar's Number
     
         ??? note "Human Nature"
             - [x] Trust

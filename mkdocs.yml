@@ -3,9 +3,10 @@ extra_css:
     - stylesheets/extra.css
 theme:
   name: material
-  logo: assets/logo.png
+  logo: assets/logo.svg
   favicon: assets/favicon.ico
   features:
+    - toc.integrate
     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.prune
@@ -20,7 +21,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - toc.integrate
+    
   language: en
   palette:
     - scheme: youtube
