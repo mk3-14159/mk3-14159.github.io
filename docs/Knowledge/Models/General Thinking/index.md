@@ -1,5 +1,5 @@
 ---
-title: General Thinking
+title: General Thinking Mental Models
 description: General Thinking Mental Models 
 ---
 
