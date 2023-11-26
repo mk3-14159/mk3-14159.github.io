@@ -1,7 +1,9 @@
 ---
-title: General Thinking Mental Models
+title: General Thinking 
 description: General Thinking Mental Models 
 ---
+
+# General Thinking Mental Models
 
 !!! quote "MK Chong"
     My study of General thinking mental models are based on conceptual frameworks that help in simplifying complex situations or problems, enabling better understanding, reasoning, and decision-making. 
