@@ -13,7 +13,7 @@ graph TD
     C --> D[Consider Incompetence or Mistake]
 ```
 
-- Harder to trace in its origin, Hanlon’s Razor states that we should not attribute to malice that which is more easily explained by stupidity. 
+- Harder to trace in its origin, Hanlon’s Razor states that we should not attribute to malice that which is more easily explained by [stupidity](https://en.wikipedia.org/wiki/Stupidity). 
 - In a complex world, this principle helps us avoid extreme paranoia and ideology, often very hard to escape from, by not generally assuming that bad results are the fault of a bad actor, although they can be (More likely, a mistake has been made).
 
 !!! example "Example of Hanlon's Razor"
