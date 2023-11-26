@@ -22,12 +22,12 @@ description: project workflow and tasks
         ??? note "Logical Fallacies"
             - [x] Slippery Slope
             - [x] The Fallacy Fallacy
-            - [ ] Strawman
-            - [ ] False Cause
-            - [ ] Appeal to Emotion
-            - [ ] Ad Hominem
-            - [ ] Tu Quoque
-            - [ ] Personal Incredulity
+            - [x] Strawman
+            - [x] False Cause
+            - [x] Appeal to Emotion
+            - [x] Ad Hominem
+            - [x] Tu Quoque
+            - [x] Personal Incredulity
             - [ ] Speacial Plead
             - [ ] Loaded Question
             - [ ] Burden of Proof
