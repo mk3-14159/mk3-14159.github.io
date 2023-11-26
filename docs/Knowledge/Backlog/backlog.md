@@ -64,28 +64,28 @@ description: project workflow and tasks
         ??? note "Human Nature"
             - [x] Trust
             - [x] Bias from Incentives
-            - [ ] Pavlovian Association
-            - [ ] Envy & Jealousy
-            - [ ] Distortion from emotion
-            - [ ] Denial
-            - [ ] Availability Heuristic
-            - [ ] Representativeness Heuristic
-            - [ ] Social Proof
-            - [ ] Narrative
-            - [ ] Curiousity
-            - [ ] Language
-            - [ ] First Conlusion Bias
-            - [ ] Over-generalization
-            - [ ] Relativity of Satisfaction/Misery
-            - [ ] Commitment & Consistency Bias
-            - [ ] Hindsight Bias
-            - [ ] Fairness
-            - [ ] Overestimating Consistencies
-            - [ ] Influence & Authority
-            - [ ] Stress
-            - [ ] Survivaship Bias
-            - [ ] Fight or Flight
-            - [ ] The IKEA
+            - [x] Pavlovian Association
+            - [x] Envy & Jealousy
+            - [x] Distortion from emotion
+            - [x] Denial
+            - [x] Availability Heuristic
+            - [x] Representativeness Heuristic
+            - [x] Social Proof
+            - [x] Narrative
+            - [x] Curiousity
+            - [x] Language
+            - [x] First Conlusion Bias
+            - [x] Over-generalization
+            - [x] Relativity of Satisfaction/Misery
+            - [x] Commitment & Consistency Bias
+            - [x] Hindsight Bias
+            - [x] Fairness
+            - [x] Overestimating Consistencies
+            - [x] Influence & Authority
+            - [x] Stress
+            - [x] Survivaship Bias
+            - [x] Tendency to want to do something
+            - [x] The IKEA
   
         ??? note "Micro Economics"
             - [x] Opportunity Costs
