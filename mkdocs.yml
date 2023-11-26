@@ -4,7 +4,7 @@ extra_css:
 theme:
   name: material
   logo: assets/logo.svg
-  favicon: assets/favicon.ico
+  favicon: assets/logo.svg
   features:
     - toc.integrate
     - navigation.tabs

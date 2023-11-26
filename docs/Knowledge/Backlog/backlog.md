@@ -9,15 +9,15 @@ description: project workflow and tasks
         ??? note "General Thinking"
             - [x] Inversion
             - [x] Confirmation Bias
-            - [ ] Circle of Competence 
-            - [ ] Occam's Razor 
-            - [ ] Hanlon's Razor
-            - [ ] Second Order Thinking
-            - [ ] The Map is not the Territory
-            - [ ] Thought Experiment
-            - [ ] Mr Market
-            - [ ] Bayesian Thinking
-            - [ ] Default Thinking
+            - [x] Circle of Competence 
+            - [x] Occam's Razor 
+            - [x] Hanlon's Razor
+            - [x] Second Order Thinking
+            - [x] The Map is not the Territory
+            - [x] Thought Experiment
+            - [x] Mr Market
+            - [x] Probabilistic Thinking
+            - [x] Default Thinking
 
         ??? note "Logical Fallacies"
             - [x] Slippery Slope
