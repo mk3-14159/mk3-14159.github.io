@@ -6,8 +6,8 @@ description: project workflow and tasks
 !!! abstract "TODOs"
     !!! question "Mental Models"
 
-        ??? note "General Thinking"
-            - [x] Inversion
+        ??? note "General Thinking (diagram rework)" 
+            - [x] Inversion 
             - [x] Confirmation Bias
             - [x] Circle of Competence 
             - [x] Occam's Razor 
@@ -45,7 +45,7 @@ description: project workflow and tasks
             - [x] The Texas Sharpshooter
             - [x] Middle Ground
 
-        ??? note "Biological"
+        ??? note "Biological (diagram rework)"
             - [x] Incentives
             - [x] Symbiosis
             - [x] Adaptation
@@ -61,7 +61,7 @@ description: project workflow and tasks
             - [x] Niches
             - [x] Dunbar's Number
     
-        ??? note "Human Nature"
+        ??? note "Human Nature (diagram rework)" 
             - [x] Trust
             - [x] Bias from Incentives
             - [x] Pavlovian Association
@@ -154,7 +154,7 @@ description: project workflow and tasks
             - [ ] Spring-loading
             - [ ] Complex Adaptive Systems
   
-        ??? note "Art of War"
+        ??? note "Art of War (diagram rework)"
             - [x] Seeing the Front
             - [x] Asymetric Warfare
             - [x] Two-Front War
