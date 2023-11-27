@@ -28,22 +28,22 @@ description: project workflow and tasks
             - [x] Ad Hominem
             - [x] Tu Quoque
             - [x] Personal Incredulity
-            - [ ] Speacial Plead
-            - [ ] Loaded Question
-            - [ ] Burden of Proof
-            - [ ] Ambiguity
-            - [ ] The Gambler's Fallacy
-            - [ ] Bandwagon
-            - [ ] Appeal to Authority
-            - [ ] Structural Composition
-            - [ ] No True Scotsman
-            - [ ] Genetic
-            - [ ] True or False
-            - [ ] Begging the Question
-            - [ ] Appeal to Nature
-            - [ ] Anecdotal
-            - [ ] The Texas Sharpshooter
-            - [ ] Middle Ground
+            - [x] Speacial Plea
+            - [x] Loaded Question
+            - [x] Burden of Proof
+            - [x] Ambiguity
+            - [x] The Gambler's Fallacy
+            - [x] Bandwagon
+            - [x] Appeal to Authority
+            - [x] Composition and Division
+            - [x] No True Scotsman
+            - [x] Genetic
+            - [x] True or False
+            - [x] Begging the Question
+            - [x] Appeal to Nature
+            - [x] Anecdotal
+            - [x] The Texas Sharpshooter
+            - [x] Middle Ground
 
         ??? note "Biological"
             - [x] Incentives
