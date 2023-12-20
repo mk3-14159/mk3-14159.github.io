@@ -5,13 +5,13 @@ description: Misc, Golf
 
 # [Golf](https://en.wikipedia.org/wiki/Golf)
 
-## Objective 
+### Objective 
 - Hit the ball into the hole using as few strokes as possible.
 - Consists of 18 holes (Some courses have 9)
 - Each hole starts from a designated teeing area.
 - Courses are varied, some include obstacles like sand bunkers and water hazards.
 
-## Gameplay 
+### Gameplay 
 - [Stroke Play](https://en.wikipedia.org/wiki/Stroke_play) - Based on total number of strokes.
 - [Match Play](https://en.wikipedia.org/wiki/Match_play) - Based on total number of holes won.
 
@@ -71,7 +71,7 @@ Your mental game in golf is equally as important as the physical game.
 - Practice 
     - I'm guilty of not following through with this, but being patient and practicing regularly could help you get better at golf through [The Compound Effect](https://jamesclear.com/book-summaries/the-compound-effect)
 
-## Resources 
+### Resources 
 - [The Glossary of Golf](https://en.wikipedia.org/wiki/Glossary_of_golf)
 - [Fitzygolfpro Youtube Channel](https://www.youtube.com/@fitzygolfpro)
 - [Golf News](https://golf.com/)
