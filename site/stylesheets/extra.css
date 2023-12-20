@@ -19,7 +19,7 @@
 
   .md-content {
     --md-typeset-color: #060025;
-    --md-typeset-a-color:  #0a004b;
+    --md-typeset-a-color:  rgb(32, 13, 128);
   }
 
   .flex-container {
@@ -35,7 +35,7 @@
     flex-basis: calc(50% - 12px); /* Adjust width minus margin */
     margin: 5px;
     text-align: center;
-    border: 0.5px solid #00b0ff; /* Optional: for border of button*/
+    border: 0.5px solid #180256; /* Optional: for border of button*/
     padding: 2px;
     box-sizing: border-box;
     border-radius: 5px;

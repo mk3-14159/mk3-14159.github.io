@@ -4,6 +4,11 @@ title: Essays
 
 # Autodidact's Delight
 
+!!! example "My Essays"
+    - [Object Oriented Bash](#object-oriented-bash)
+    - [Voilent Python](#voilent-python)
+    - [Hello World](#first-blog)
+
 !!! tip "Awesome Reads"
     - [Astral Codex Ten | Scott Alexander](https://www.astralcodexten.com/)
     - [xkcd | Randall Munroe](https://xkcd.com/)
@@ -16,11 +21,6 @@ title: Essays
     - [Hacker's Manifesto | The Mentor](http://phrack.org/issues/7/3.html)
     - [Industrial Society And It's Future | Ted Kaczynski](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
     - [Less Wrong | Eliezer Yudkowsky](https://www.lesswrong.com/)
-
-!!! example "My Essays"
-    - [Object Oriented Bash](#object-oriented-bash)
-    - [Voilent Python](#voilent-python)
-    - [Hello World](#first-blog)
 
 ---
 
