@@ -8,6 +8,8 @@ description: Misc, Meditation
 ### Objective
 A practice to cultivate [mindful](https://en.wikipedia.org/wiki/Mindfulness) state of being. While a lot of meditation techniques and deeply intertwined with [spirituality](https://en.wikipedia.org/wiki/Spirituality) and cultural traditions - the benefits of meditation have been scientifically proven to have [theraputic effects](https://news.harvard.edu/gazette/story/2018/04/harvard-researchers-study-how-mindfulness-may-change-the-brain-in-depressed-patients/).
 
+---
+
 ### [Mindfulness](https://en.wikipedia.org/wiki/Mechanisms_of_mindfulness_meditation)
 - Increase your awareness by being present.
 - 15-20 minutes a day, while sitting eyes cosed.
@@ -23,6 +25,8 @@ Steps:
 6. Acknowledge distracting thoughts and redirect your attention to your breath.
 7. Practice twice a day.
 
+---
+
 ### [Transcendental](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 - Recites a specific form of silent mantra.
 - 15-20 minutes a day, while sitting with eyes closed.
@@ -37,6 +41,8 @@ Steps:
 6. If thoughts come, return to repeating the mantra. 
 7. Practice twice a day.
 
+---
+
 ### [Vipassana](https://en.wikipedia.org/wiki/Vipassana_movement)
 - Gain insight into yourself through self-obeservation.
 - Gain insight into the true nature of reality.
@@ -50,6 +56,8 @@ Steps:
 3. Mentally conduct a "body scan" by gradually moving your focus into different parts of your body.
 4. Gain insight into the concepts of impermanence, suffering and non-self. 
 5. Practice once a day (ideally a long sitting). 
+
+---
 
 ### [Yoga](https://en.wikipedia.org/wiki/Yoga)
 - Combines physical postures, breath control and mental focus to achieve deep relaxation.
@@ -66,6 +74,8 @@ Steps:
 6. After 2-3 minutes of holding the pose, try a different one. 
 7. do 5-6 sets of poses and conclude the session in 20 minutes. 
 
+---
+
 ### [Zen (aka Zazen 坐禪)](https://en.wikipedia.org/wiki/Zazen)
 - Aims to achieve inner peace.
 - Increase self awareness and mindfulness.
@@ -81,7 +91,7 @@ Steps:
 5. If thoughts come, bring your focus back to your breath. 
 6. Keep sessions short at first (5-10 mins), gradually increase session duration.
 
-
+---
 
 ### [Prayer](https://en.wikipedia.org/wiki/Prayer)
 - Aims to promote spiritual connection and maintain inner peace. 
@@ -97,6 +107,8 @@ Steps:
 4. Engage in prayer / Spiritual thought
 5. After your prayer transition into a state of relfection and gratitude.
 6. Pray according the the praying schedules of your faith. 
+
+---
 
 !!! abstract "My Conclusion"
     All of the meditation practices that i've studied and experimented with have one thing in common - to promote mindfulness and inner peace. While different traditions and cultures have different techniques and interpretations of achieving the mindfulness state of mind, the objective is ultimately the same. And of course, the hardest part of about any practice is to maintain the consistency of the practice. To truly feel the benefits of a meditatio practice one must stick to it and turn it into a habit.
