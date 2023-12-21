@@ -73,6 +73,7 @@ Steps:
 - Cultivate compassion.
 
 Steps:
+
 1. Sit cross legged on a cushion or upright on a chair in a quiet, comfortable space.
 2. Maintain an upright, relaxed posture.
 3. Gently close your eyes, maintaining a soft gaze to the ground.
@@ -89,6 +90,7 @@ Steps:
 - Promote emotional healing and cultivate gratitude. 
 
 Steps:
+
 1. Sit in a quiet, comfortable space.
 2. Take a few deep breaths to relax your body and mind.
 3. Set your intention, it could be a specific prayer, spiritual question or general desire.
