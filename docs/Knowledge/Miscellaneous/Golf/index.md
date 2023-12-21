@@ -15,6 +15,8 @@ description: Misc, Golf
 - [Stroke Play](https://en.wikipedia.org/wiki/Stroke_play) - Based on total number of strokes.
 - [Match Play](https://en.wikipedia.org/wiki/Match_play) - Based on total number of holes won.
 
+---
+
 ### Swinging 
 - Grip 
     - Should be relaxed yet firm.
@@ -28,6 +30,8 @@ description: Misc, Golf
     - Body should slightly tilt to the target. 
     - Follow through with the rotation of the upper body. 
     - Power comes from the hips.
+
+---
 
 ### Putting
 - Grip 
@@ -43,6 +47,8 @@ description: Misc, Golf
     - Smooth tempo prioritizing accuracy.
     - Follow through in equal length was the backstroke
 
+---
+
 ### Chipping 
 - Grip
     - Lower the grip closer to the shaft.
@@ -55,6 +61,8 @@ description: Misc, Golf
 - Impact
     - Keep wrists firm while hitting the ball.
     - Finish with clubface pointing the target. 
+
+---
 
 ### Mental Game 
 Your mental game in golf is equally as important as the physical game.
@@ -70,6 +78,8 @@ Your mental game in golf is equally as important as the physical game.
 
 - Practice 
     - I'm guilty of not following through with this, but being patient and practicing regularly could help you get better at golf through [The Compound Effect](https://jamesclear.com/book-summaries/the-compound-effect)
+
+---
 
 ### Resources 
 - [The Glossary of Golf](https://en.wikipedia.org/wiki/Glossary_of_golf)
