@@ -6,7 +6,7 @@ description: Misc, Meditation
 # [Meditation](https://en.wikipedia.org/wiki/Meditation)
 
 ### Objective
-A practice to cultivate [mindful](https://en.wikipedia.org/wiki/Mindfulness) state of being. While a lot of meditation techniques and deeply intertwined with [spirituality](https://en.wikipedia.org/wiki/Spirituality) and cultural traditions - the benefits of meditation have been scientifically proven to have [theraputic effects](https://news.harvard.edu/gazette/story/2018/04/harvard-researchers-study-how-mindfulness-may-change-the-brain-in-depressed-patients/).
+A practice to cultivate [mindful](https://en.wikipedia.org/wiki/Mindfulness) state of being. While a lot of meditation techniques and deeply intertwined with [spirituality](https://en.wikipedia.org/wiki/Spirituality) and cultural traditions - the benefits of meditation have been scientifically proven to have [therapeutic effects](https://news.harvard.edu/gazette/story/2018/04/harvard-researchers-study-how-mindfulness-may-change-the-brain-in-depressed-patients/).
 
 ---
 
@@ -111,7 +111,7 @@ Steps:
 ---
 
 !!! abstract "My Conclusion"
-    All of the meditation practices that i've studied and experimented with have one thing in common - to promote mindfulness and inner peace. While different traditions and cultures have different techniques and interpretations of achieving the mindfulness state of mind, the objective is ultimately the same. And of course, the hardest part of about any practice is to maintain the consistency of the practice. To truly feel the benefits of a meditatio practice one must stick to it and turn it into a habit.
+    All of the meditation practices that i've studied and experimented with have one thing in common - to promote mindfulness and inner peace. While different traditions and cultures have different techniques and interpretations of achieving the mindfulness state of mind, the objective is ultimately the same. And of course, the hardest part of about any practice is to maintain the consistency of the practice. To truly feel the benefits of a meditation practice one must stick to it and turn it into a habit.
 
 
 
