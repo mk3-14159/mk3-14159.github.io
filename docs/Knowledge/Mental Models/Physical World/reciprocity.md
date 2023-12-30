@@ -18,5 +18,3 @@ Reciprocity
 
 !!! example "Example of Reciprocity"
     When Mary shares her lunch with her friend Bob at school, Bob reciprocates by sharing his snacks with Mary the next day.
-
-Draw a flowchart illustrating the example, provide mermaid code

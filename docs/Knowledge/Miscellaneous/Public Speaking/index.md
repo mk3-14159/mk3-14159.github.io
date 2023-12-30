@@ -17,7 +17,7 @@ Public speaking is a key skill required to communicate information, ideas and ar
 - Offer an [empowerment promise](https://www.inc.com/justin-bariso/mit-patrick-wilson-how-to-give-great-speech-presentation-how-to-speak-emotional-intelligence.html), provide a simple statement to explain what the audience could learn for you and why they should care.
 - Start off your speech with good verbal punctuation. Utilize pauses and [intonation](https://www.britannica.com/topic/intonation) to illustrate key points. Avoid excessive use of filler phrases like "ummm" or "errrr".
 - Ask a question then pause, this will help people tune back into your speech. Don't make the question too easy to answer as people might be embaressed to answer it. Don't make it too hard otherwise it will be too difficult to respond to.
-- Avoid going to fast or too slow. Pace yourself, aim for a conversational pace. Work on prnounciating words clearly so people can understand what you are saying. 
+- Avoid going to fast or too slow. Pace yourself, aim for a conversational pace. Work on pronouncing words clearly so people can understand what you are saying. 
 
 
 ---

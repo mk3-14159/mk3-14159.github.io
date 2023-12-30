@@ -13,7 +13,7 @@ description: War Mental Models
 
 
 !!! abstract "Table of contents"
-    - [Asymmetric Warfare](https://mkchong.com/Knowledge/Models/Art%20of%20War/asymmetricWarfare/)
+    - [Asymmetric Warfare](asymmetricWarfare.md)
     - [Counter Insurgency](https://mkchong.com/Knowledge/Models/Art%20of%20War/counterInsurgency/)
     - [Mutually Assured Destruction](https://mkchong.com/Knowledge/Models/Art%20of%20War/mutuallyAssuredDestruction/)
     - [Seeing The Front](https://mkchong.com/Knowledge/Models/Art%20of%20War/seeingTheFront/)
