@@ -3,6 +3,8 @@ title: Permutations and Combinations
 description: Numeracy, Permutations and Combinations 
 ---
 
+# [Permutations](https://en.wikipedia.org/wiki/Permutation) and [Combinations](https://en.wikipedia.org/wiki/Combination)
+
 ```mermaid
 flowchart LR
     A[Start] --> B[Select Appetizers]
