@@ -3,7 +3,7 @@ title: Mircro Economics
 description: Micro Economics Mental Models 
 ---
 
-# Micro Economics Mental Models
+# Micro Economics
 
 !!! quote "MK Chong"
     My study of micro economic mental models to understand and analyze the behavior of markets, businesses, and consumers at different scales.

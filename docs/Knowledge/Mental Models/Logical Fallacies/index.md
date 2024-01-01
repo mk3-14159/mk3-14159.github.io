@@ -3,7 +3,7 @@ title: Logical Fallacies
 description: Loigical Fallacy Mental Models 
 ---
 
-# Logical Fallacy Mental Models
+# Logical Fallacies
 
 !!! quote "MK Chong"
     My study of logical fallacies to understand and identify flawed reasoning patterns that can mislead or deceive. Understanding them is useful for evaluating arguments critically and communicating more effectively.

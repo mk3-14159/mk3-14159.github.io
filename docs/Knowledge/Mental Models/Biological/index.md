@@ -3,7 +3,7 @@ title: Biological
 description: Biological Mental Models 
 ---
 
-# Biological Mental Models
+# Biological
 
 <!-- <img style="float: left;" src="https://source.unsplash.com/VRXBA8E6MfM" width="400" height="150"> -->
 

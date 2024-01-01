@@ -3,7 +3,7 @@ title: Human Nature
 description: Human Nature Mental Models 
 ---
 
-# Human Nature Mental Models
+# Human Nature
 
 !!! quote "MK Chong"
     My study of human nature to understanding how our minds construct and navigate our perception of ourselves and others. I'm trying to understand how internal models influence our thoughts, behaviors, and interactions with others, shaping our worldview and social dynamics.

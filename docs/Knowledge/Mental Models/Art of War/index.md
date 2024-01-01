@@ -3,7 +3,7 @@ title: Art of War
 description: War Mental Models
 ---
 
-# Military Mental Models
+# Military Strategy
 
 <!-- <img style="float: left;" src="https://source.unsplash.com/VRXBA8E6MfM" width="400" height="150"> -->
 
