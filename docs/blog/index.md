@@ -5,9 +5,9 @@ title: Essays
 # Autodidact's Delight
 
 !!! example "My Essays"
-    - [Object Oriented Bash](#object-oriented-bash)
-    - [Voilent Python](#voilent-python)
-    - [Hello World](#first-blog)
+    - [Object Oriented Bash](posts/object-oriented-bash.md)
+    - [Voilent Python](posts/voilent-python.md)
+    - [Hello World](posts/hello-world.md)
 
 !!! tip "Awesome Reads"
     - [Astral Codex Ten | Scott Alexander](https://www.astralcodexten.com/)
