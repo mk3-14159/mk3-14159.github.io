@@ -1,5 +1,5 @@
 ---
-title: Order of Magnitiude
+title: Order of Magnitude
 description: Numeracy, Order of Magnitude
 ---
 
