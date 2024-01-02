@@ -15,25 +15,29 @@ At its core, the “DNA” of an organization is anchored by the reward systems 
 
 I'm taking inspiration from [The Cult of Done](https://www.danpink.com/2009/03/cult-of-done/), [The Critical Engineering Manifesto](https://criticalengineering.org/) and the [Effective Accelerationism movement](https://en.wikipedia.org/wiki/Effective_accelerationism#:~:text=Effective%20accelerationism%2C%20often%20abbreviated%20as,which%20should%20be%20pushed%20forward.), I propose a radical set of ideas and principles to optimize for what I believe makes a successful engineering organization at a small to medium scale. I call it - The “E” Manifesto.
 
-**THE "E" ENGINEERING MANIFESTO**
+---
 
-> My take on an engineering manifesto for ambitious startups and engineering teams. 
+!!! quote "**THE "E" ENGINEERING MANIFESTO**"
 
-**1.** The “E” Engineer must embrace radical innovation fearlessly by taking calculated technological risks, deploy rapid experiments, leverage on cutting edge tools such as AI to drive efficiency and improve software. 
+    > My take on an engineering manifesto for ambitious startups and engineering teams. 
 
-**2.** The “E” Engineer must play to win by prioritizing the acceleration of our product market fit as soon as possible through frequent, aggressive iterations of releasing product feature improvements. 
+    **1.** The “E” Engineer must embrace radical innovation fearlessly by taking calculated technological risks, deploy rapid experiments, leverage on cutting edge tools such as AI to drive efficiency and improve software. 
 
-**3.** The “E” Engineer celebrates meritocracy and competence, fostering an environment where skill and talent are recognized and rewarded.
+    **2.** The “E” Engineer must play to win by prioritizing the acceleration of our product market fit as soon as possible through frequent, aggressive iterations of releasing product feature improvements. 
 
-**4.** The “E” Engineer looks to the conventions of the traditional business model and seeks opportunities to automate repetitive tasks with the help of robots. 
+    **3.** The “E” Engineer celebrates meritocracy and competence, fostering an environment where skill and talent are recognized and rewarded.
 
-**5.** The “E” Engineer designs modular code, as if crafting a lego block to seamlessly integrate with the works of others and streamline software development. 
+    **4.** The “E” Engineer looks to the conventions of the traditional business model and seeks opportunities to automate repetitive tasks with the help of robots. 
 
-**6.** The “E” Engineer is customer-driven and dedicate their work to customer feedback, we engage with our customers and respond to critical feedback by fixing bugs and exceeding their expectations with our speed and execution. 
+    **5.** The “E” Engineer designs modular code, as if crafting a lego block to seamlessly integrate with the works of others and streamline software development. 
+
+    **6.** The “E” Engineer is customer-driven and dedicate their work to customer feedback, we engage with our customers and respond to critical feedback by fixing bugs and exceeding their expectations with our speed and execution. 
 
 
-My Manifesto represents a transformative approach to engineering culture within the Edutech space in Malaysia. I’m writing this with the ambition of building a dynamic, productive and forward thinking organization to disrupt and transform the conventional norms and redefine the paradigm of digital education. 
+---
+
+My Manifesto represents my transformative vision and approach to engineering culture within the Edutech space in Malaysia. I’m writing this with the ambition of building a dynamic, productive and forward thinking organization to disrupt and transform the conventional norms and redefine the paradigm of digital education one day. 
 
 I'll write more soon.
 
-Grazie. 
+Cura, ut valeas.
