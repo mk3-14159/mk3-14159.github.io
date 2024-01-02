@@ -9,6 +9,9 @@ categories:
     - manifesto
 ---
 
+!!! quote "MK Chong"
+    This is my take on an engineering manifesto for ambitious startups and engineering teams. 
+
 I’ve had some time to reflect on organizational culture and internalized some of my experiences working in both large and small engineering teams. An organization is a group of people who work together, be it in a neighborhood association, charity organization, tech startup or a F100 conglomerate. 
 
 At its core, the “DNA” of an organization is anchored by the reward systems established by its management, which should align and optimize with the pursuit of a common, high-level goal - a reward function. 
@@ -16,9 +19,6 @@ At its core, the “DNA” of an organization is anchored by the reward systems 
 I'm taking inspiration from [The Cult of Done](https://www.danpink.com/2009/03/cult-of-done/), [The Critical Engineering Manifesto](https://criticalengineering.org/) and the [Effective Accelerationism movement](https://en.wikipedia.org/wiki/Effective_accelerationism#:~:text=Effective%20accelerationism%2C%20often%20abbreviated%20as,which%20should%20be%20pushed%20forward.), I propose a radical set of ideas and principles to optimize for what I believe makes a successful engineering organization at a small to medium scale. I call it [The “E” Manifesto]().
 
 ---
-
-!!! quote "MK Chong"
-    My take on an engineering manifesto for ambitious startups and engineering teams. 
 
 | **THE "E" ENGINEERING MANIFESTO** |
 | --- |
