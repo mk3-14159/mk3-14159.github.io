@@ -19,7 +19,6 @@ Taking inspiration from [The Cult of Done](https://www.danpink.com/2009/03/cult-
 
 ### THE “E” ENGNEERING MANIFESTO
 
-```txt
 1. The “E” Engineer must embrace radical innovation fearlessly by taking calculated technological risks, deploy rapid experiments, leverage on cutting edge tools such as AI to drive efficiency and improve software. 
 
 2. The “E” Engineer must play to win by prioritizing the acceleration of our product market fit as soon as possible through frequent, aggressive iterations of releasing product feature improvements. 
@@ -31,7 +30,7 @@ Taking inspiration from [The Cult of Done](https://www.danpink.com/2009/03/cult-
 5. The “E” Engineer designs modular code, as if crafting a lego block to seamlessly integrate with the works of others and streamline software development. 
 
 6. The “E” Engineers are customer-driven and dedicate their work to customer feedback, we engage with our customers and are responsive to critical feedback by fixing bugs and exceeding their expectations with our speed and execution. 
-```
+
 
 My Manifesto represents a transformative approach to engineering culture within the Edutech space in Malaysia. I’m writing this with the ambition of building a dynamic, productive and forward thinking organization to disrupt and transform the conventional norms and redefine the paradigm of digital education. 
 
