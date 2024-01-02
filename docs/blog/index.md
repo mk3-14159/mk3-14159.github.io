@@ -5,6 +5,7 @@ title: Essays
 # Autodidact's Delight
 
 !!! example "My Essays"
+    - [The E Manifesto](posts/the-e-manifesto.md)
     - [Object Oriented Bash](posts/object-oriented-bash.md)
     - [Voilent Python](posts/voilent-python.md)
     - [Hello World](posts/hello-world.md)
