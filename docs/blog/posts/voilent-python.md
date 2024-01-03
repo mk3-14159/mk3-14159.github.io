@@ -8,9 +8,6 @@ categories:
     - hacking
 ---
 
-# HELLO TEST
-
-
 !!! Abtract 
     My review and open source contribution to "Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers" 
 
