@@ -34,6 +34,6 @@ I'm taking inspiration from [The Cult of Done](https://www.danpink.com/2009/03/c
 
 My Manifesto represents my transformative vision and approach to engineering culture within the Edutech space in Malaysia. I’m writing this with the ambition of building a dynamic, productive and forward thinking organization to disrupt and transform the conventional norms and redefine the paradigm of digital education one day. 
 
-I'll write more soon.
+I'll write more soon,
 
 Cura, ut valeas.
